@@ -13,7 +13,7 @@ html{
 
 }
 .nav:hover{
- background-color:rgba(253, 153, 253, 0.24) ; 
+ background-color:rgba(153, 226, 253, 0.24) ; 
 }
 
 .body{background-color: rgba(7, 26, 3, 0.856);}
@@ -39,7 +39,7 @@ p{
 }
 
 
-.body{background-color: rgba(97, 64, 3, 0.658);}
+.body{background-color: rgba(8, 47, 59, 0.658);}
 h1{text-align:center;
 }
 .home{
@@ -114,6 +114,14 @@ animation-iteration-count: infinite;
 }
 .container:hover .overlay {
   height: 100%;
+}
+h3{
+  font-family: 'matura mt script capitals';
+  text-shadow: 2px 2px 2.4px rgb(120, 15, 34),2px 4px 3px gray;
+  color:rgb(5, 29, 43);
+  font-weight: 300;
+  font-size: 35px;
+  letter-spacing: 2px;
 }
 .text {
   color: white;
